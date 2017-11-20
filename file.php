@@ -1,1 +1,2 @@
-file baru [tidak ada isi]
+file baru
+[isi]
