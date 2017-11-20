@@ -1,2 +1,2 @@
 file baru
-[isi]
+[bukan isi]
